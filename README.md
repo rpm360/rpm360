@@ -70,39 +70,41 @@ I am a **Software Engineer** specializing in **Generative AI, Multi-Agent System
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🛡️ Autonomous Incident Resolving Agent</h3>
-      <p>Autonomous self-healing SRE agent utilizing RAG pipelines, function calling, and <b>MCP Servers</b> to automatically diagnose system alerts, identify root causes, and trigger remediation runbooks without human overhead.</p>
+      <h3><a href="https://github.com/rpm360/housing-market-agent">🏡 Autonomous Housing Market Agent</a></h3>
+      <p>Autonomous multi-agent real estate market analysis framework utilizing <b>LangGraph</b>, supervisor routing, and automated tool-calling workflows.</p>
       <p>
-        <img src="https://img.shields.io/badge/MCP-Protocol-blueviolet?style=flat-square" />
-        <img src="https://img.shields.io/badge/RAG-Pipelines-blue?style=flat-square" />
-        <img src="https://img.shields.io/badge/AWS%20Bedrock-Orange?style=flat-square" />
+        <img src="https://img.shields.io/badge/LangGraph-Agents-blueviolet?style=flat-square" />
+        <img src="https://img.shields.io/badge/Multi--Agent-Architecture-blue?style=flat-square" />
+        <img src="https://img.shields.io/badge/Python-3.11-brightgreen?style=flat-square" />
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🧠 Multi-Agent Bedrock Orchestration</h3>
-      <p>Hierarchical multi-agent framework dynamically routing complex user requests and mortgage workflows across specialized sub-agents with <b>LLM-as-a-Judge regression testing</b> and Langfuse tracing.</p>
+      <h3><a href="https://github.com/rpm360/tweet-classification-nlp">🐦 Tweet Classification NLP & Deep Learning</a></h3>
+      <p>Comparative deep learning NLP benchmark comparing <b>BERT</b>, LSTM, CNN, and Naive Bayes for classifying personal vs. broadcast social media posts.</p>
       <p>
-        <img src="https://img.shields.io/badge/Langfuse-Observability-black?style=flat-square" />
-        <img src="https://img.shields.io/badge/Failover-99.9%25%20Uptime-green?style=flat-square" />
-        <img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?style=flat-square" />
+        <img src="https://img.shields.io/badge/BERT-HuggingFace-yellow?style=flat-square" />
+        <img src="https://img.shields.io/badge/PyTorch-Deep%20Learning-red?style=flat-square" />
+        <img src="https://img.shields.io/badge/F1--Score-71%25-green?style=flat-square" />
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🕸️ KG Generator Tool V2</h3>
-      <p>Scalable Knowledge Graph management platform engineered to support millions of FAQs, complex entities, and taxonomy trees with atomic rebuilds, precise schema edits, and zero disruption to production bots.</p>
+      <h3><a href="https://github.com/rpm360/traffic-congestion-bigquery-ml">🚦 BigQuery & Geotab Traffic Congestion ML</a></h3>
+      <p>Large-scale telematics regression analysis predicting multi-percentile intersection delays and queue lengths across major US metros using LightGBM and Random Forests.</p>
       <p>
-        <img src="https://img.shields.io/badge/Knowledge%20Graph-Neo4j%2FGraph-brightgreen?style=flat-square" />
-        <img src="https://img.shields.io/badge/Scalability-Millions%20Q%26A-informational?style=flat-square" />
+        <img src="https://img.shields.io/badge/BigQuery-Google%20Cloud-4285F4?style=flat-square" />
+        <img src="https://img.shields.io/badge/LightGBM-XGBoost-brightgreen?style=flat-square" />
+        <img src="https://img.shields.io/badge/Telematics-850K%2B%20Rows-informational?style=flat-square" />
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>💬 Animated Chatbot Avatar & NLP Classifier</h3>
-      <p>Interactive avatar and deep learning NLP pipeline differentiating personal vs non-personal tweets with state-of-the-art accuracy, paired with fluid real-time conversational agents.</p>
+      <h3><a href="https://github.com/rpm360/carbon-footprint-calculator">🌱 Carbon Footprint Calculator</a></h3>
+      <p>Interactive full-stack web application calculating carbon emissions across commute, diet, and energy with personalized reduction recommendations.</p>
       <p>
-        <img src="https://img.shields.io/badge/NLP-Deep%20Learning-red?style=flat-square" />
-        <img src="https://img.shields.io/badge/Interactive-Avatar-yellow?style=flat-square" />
+        <img src="https://img.shields.io/badge/React-Vite-61DAFB?style=flat-square" />
+        <img src="https://img.shields.io/badge/TailwindCSS-Supabase-38B2AC?style=flat-square" />
+        <img src="https://img.shields.io/badge/Framer%20Motion-Animations-pink?style=flat-square" />
       </p>
     </td>
   </tr>
